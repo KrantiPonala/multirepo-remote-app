@@ -1,0 +1,15 @@
+.counter{
+    padding: 10px 20px;
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.counterContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aquamarine;
+    border: 4px dashed red;
+}
